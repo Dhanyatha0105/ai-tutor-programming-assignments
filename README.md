@@ -1,5 +1,7 @@
 # AI Assignment Tutor
 
+**Live demo:** https://ai-tutor-programming-assignments.vercel.app — _Demo: tutor feedback &amp; scores use bundled sample logic (no live AI key)._
+
 A premium, AI-powered platform for students and teachers to manage and analyze assignments.
 
 ## 🚀 How to Run the Project

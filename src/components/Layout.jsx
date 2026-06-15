@@ -60,6 +60,11 @@ export function Layout({ children, title, lang, setLang, role, setRole, t }) {
         </div>
       </nav>
 
+      {/* Demo notice */}
+      <div className="mx-4 mb-2 px-4 py-2 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-300 text-xs font-medium text-center">
+        Demo — AI tutor feedback &amp; scores use bundled sample logic (no live AI key).
+      </div>
+
       {/* Main Content */}
       <main>
         {children}
